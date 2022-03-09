@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/muhammederdal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammederdal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15223969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15223969" height="30" width="40" /></a>
 <a href="https://medium.com/@coderdal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderdal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucn9thuf71scrmpq9x1rumna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucn9thuf71scrmpq9x1rumna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCN9THuf71ScRmPq9X1RuMNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/UCN9THuf71ScRmPq9X1RuMNA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
