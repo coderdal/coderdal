@@ -3,7 +3,7 @@
 <h2>A passionate Full Stack Developer</h2>
 
 - 🔭 I’m currently working on Full Stack Development as a Software Developer 
-- I have strong experience of: React JS | JavaScript | HTML5/CSS3| SCSS/SASS | Tailwind | PHP | Python | Node JS | Express JS | Linux | SQL | MongoDB | GIT | APIs | Firebase | Azure 
+- I have strong experience of: React JS | JavaScript | HTML5/CSS3 | SCSS/SASS | Tailwind | PHP | Python | Node JS | Express JS | Linux | SQL | MongoDB | GIT | APIs | Firebase | Azure 
 
 ### 📩 Contact with me:
 
