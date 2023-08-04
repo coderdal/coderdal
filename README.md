@@ -1,5 +1,5 @@
 ## **💫  Hi, I'm CodErdal👋**
-💻 I am a **Frontend Developer | JavaScript - React.js - Vue.js**  <br>🤝 I'm **#OpenToWork**
+💻 I am a **Software Developer | JavaScript & GoLang**
 
 
 ## 🌐 Socials:
