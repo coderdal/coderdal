@@ -1,5 +1,5 @@
 ## **💫  Hi, I'm CodErdal👋**
-💻 I am a **Software Developer | JavaScript & GoLang**
+💻 I am a **Software Developer**
 
 
 ## 🌐 Socials:
